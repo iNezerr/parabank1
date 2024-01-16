@@ -23,4 +23,4 @@ Sections:
 
 Test cases are available in xml, csv and excel fomat.
 
-<img title="Parabank" alt="Parabank" src="https://github.com/iNezerr/parabank1/blob/main/parabank04.PNG">
+<img title="Parabank" alt="Parabank" src="/parabank04.PNG">
