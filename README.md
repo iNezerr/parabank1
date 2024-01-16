@@ -6,7 +6,7 @@ A repository of test cases prepared in the TestRail tool for the Parabank applic
 
 Parabank is the bank's web application that allows us to manage our finances. The application provides extensive API documentation generated in Swagger.. The app is available open source at [this](https://parabank.parasoft.com/parabank/index.htm) link. Sample views of the application:
 
-<img title="Parabank" alt="Parabank" src="https://github.com/iNezerr/parabank1/blob/main/parabank01.PNG">
+<img title="Parabank" alt="Parabank" src="/parabank01.PNG">
 <img title="Parabank" alt="Parabank" src="https://github.com/iNezerr/parabank1/blob/main/parabank03.PNG">
 <img title="Parabank" alt="Parabank" src="https://github.com/iNezerr/parabank1/blob/main/parabank02.PNG">
 
